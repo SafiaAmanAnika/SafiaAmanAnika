@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Safia%20Aman%20Anika&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&color=0:FFC0D9,100:FF69B4" width="850">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Safia%20Aman%20Anika&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&color=0:5E81AC,35:81A1C1,70:FF8FB1,100:FF5FA2" width="850">
 </div>
 
 <div align="center">
@@ -31,26 +31,25 @@ Hello! I'm a software engineering student at Islamic University of Technology (I
 
 
 ---
-
 <div align="center">
   
-  | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SafiaAmanAnika&show_icons=true&bg_color=fff0f5&title_color=E96BA8&icon_color=FF9BC7&text_color=C67AA3&border_color=F7C9DD" width="410"> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SafiaAmanAnika&layout=compact&bg_color=fff0f5&title_color=E96BA8&text_color=C67AA3&border_color=F7C9DD" width="410"> |
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafiaAmanAnika&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SafiaAmanAnika&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafiaAmanAnika&theme=nord_bright&utcOffset=6) |
+| :-: | :-: | :-: |
 
-  | [![GitHub Streak](https://streak-stats.demolab.com?user=SafiaAmanAnika&background=fff0f5&ring=E96BA8&fire=FF9BC7&currStreakLabel=E96BA8&sideLabels=C67AA3&currStreakNum=FF8AB8&sideNums=E96BA8&dates=E7A6C4&border=F7C9DD)](https://git.io/streak-stats) |
-| :-: |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafiaAmanAnika&theme=nord_bright) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SafiaAmanAnika&background=EBEEF5&ring=81A1C1&fire=88C0D0&currStreakLabel=5E81AC&sideLabels=4C566A&currStreakNum=81A1C1&sideNums=5E81AC&dates=6B7280&border=D8DEE9&stroke=D8DEE9)](https://git.io/streak-stats) |
+| :-: | :-: |
 
 </div>
 
 <p align="center">
   <a href="mailto:s.a.anika66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-5E81AC?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/SafiaAmanAnika">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-5E81AC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/safia-aman-anika/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -59,5 +58,5 @@ Hello! I'm a software engineering student at Islamic University of Technology (I
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0D9,100:FF69B4&height=90&section=footer" width="850"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,35:81A1C1,70:FF8FB1,100:FF5FA2&height=90&section=footer" width="850"/>
 </div>
